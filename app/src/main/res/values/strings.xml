@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tarea01</string>
+
+    <string name="next_btn">Siguiente</string>
+    <string name="kill_btn">Salir</string>
+
+
+    <string name="question_label">Pregunta</string>
+
+    <string name="question_01">¿setText es para?</string>
+    <string name="question_rp1_01">Borrar Texto</string>
+    <string name="question_rp1_02">Asignar Texto</string>
+    <string name="question_rp1_03">Ocultar text</string>
+
+
+
+    <string name="question_02">¿getText es para?</string>
+    <string name="question_rp2_03">Recuperar el texto</string>
+
+    <string name="question_03">¿Toast es para?</string>
+    <string name="question_rp3_01">Cerrar la App</string>
+    <string name="question_rp3_02">Mostrar mensaje</string>
+    <string name="question_rp3_03">Sumar numeros</string>
+
+    <string name="question_04">¿Finish es para?</string>
+    <string name="question_rp4_01">Borrar Text</string>
+    <string name="question_rp4_02">Declara Variable</string>
+    <string name="question_rp4_03">Cerrar Actividad</string>
+
+    <string name="question_05">¿TextView es para?</string>
+    <string name="question_rp5_01">Mostrar Texto</string>
+    <string name="question_rp5_02">Multiplicar</string>
+    <string name="question_rp5_03">Dividir</string>
+
+
+    <string name="finish">Nota Obtenida:  </string>
+    <string name="finish_estdo_a">Estado: Aprobado </string>
+    <string name="finish_estado_b">Estado: Reprobado </string>
+
+    <string name="nombre">Jhosep Isaac Islam Chachagua </string>
+    <string name="carnet">25-0464-2017</string>
+
+
+
+
+
+
+
+</resources>
